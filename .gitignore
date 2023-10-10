@@ -1,0 +1,12 @@
+### VisualStudioCode template
+.vscode/*
+
+# IntelliJ project files
+.idea
+*.iml
+
+node_modules/
+.env
+
+package-lock.json
+yarn.lock
